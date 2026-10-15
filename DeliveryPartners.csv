@@ -1,0 +1,6 @@
+PartnerID,PartnerName,PartnerType,HeadquartersCity,ServiceLevel
+P01,SwiftShip,Logistics Company,Ahmedabad,Standard & Express
+P02,QuickRoute,Logistics Company,Mumbai,Standard & Express
+P03,BlueDart Logistics,Logistics Company,Delhi,Standard & Express
+P04,NorthStar Delivery,Logistics Company,Pune,Standard & Express
+P05,RapidWay Couriers,Logistics Company,Bengaluru,Standard & Express

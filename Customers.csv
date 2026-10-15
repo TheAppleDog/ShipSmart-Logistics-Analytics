@@ -1,0 +1,101 @@
+CustomerID,CustomerName,CustomerType,City,State,RegistrationDate
+C001,Aarav Mehta,Individual,Ahmedabad,Gujarat,2025-11-12
+C002,Diya Sharma,Small Business,Mumbai,Maharashtra,2025-12-03
+C003,Rohan Verma,Individual,Delhi,Delhi,2026-01-15
+C004,Ananya Patel,Business,Pune,Maharashtra,2025-10-21
+C005,Kabir Nair,Individual,Bengaluru,Karnataka,2026-02-08
+C006,Meera Reddy,Small Business,Hyderabad,Telangana,2025-09-17
+C007,Ishaan Shah,Individual,Ahmedabad,Gujarat,2026-03-01
+C008,Sana Khan,Business,Delhi,Delhi,2025-12-28
+C009,Arjun Desai,Individual,Mumbai,Maharashtra,2026-01-06
+C010,Tara Joshi,Small Business,Jaipur,Rajasthan,2026-02-19
+C011,Anaya Joshi,Individual,Pune,Maharashtra,2026-02-24
+C012,Aditi Khan,Individual,Ahmedabad,Gujarat,2026-02-28
+C013,Riya Khan,Small Business,Jaipur,Rajasthan,2026-02-11
+C014,Riya Rao,Individual,Kolkata,West Bengal,2025-09-12
+C015,Vihaan Sharma,Small Business,Kolkata,West Bengal,2025-02-01
+C016,Kiara Patel,Individual,Kolkata,West Bengal,2025-05-02
+C017,Ishaan Nair,Individual,Bengaluru,Karnataka,2025-01-13
+C018,Aditi Desai,Individual,Ahmedabad,Gujarat,2025-03-27
+C019,Ishaan Gupta,Individual,Ahmedabad,Gujarat,2025-01-30
+C020,Ira Rao,Individual,Mumbai,Maharashtra,2025-01-20
+C021,Yash Kulkarni,Small Business,Chennai,Tamil Nadu,2025-08-31
+C022,Nisha Kulkarni,Small Business,Ahmedabad,Gujarat,2025-10-26
+C023,Arnav Nair,Individual,Bengaluru,Karnataka,2026-01-02
+C024,Reyansh Verma,Individual,Delhi,Delhi,2025-07-17
+C025,Ayaan Rao,Individual,Surat,Gujarat,2025-11-10
+C026,Nisha Joshi,Small Business,Indore,Madhya Pradesh,2025-06-01
+C027,Vihaan Iyer,Small Business,Pune,Maharashtra,2025-03-10
+C028,Neil Gupta,Small Business,Pune,Maharashtra,2025-09-18
+C029,Kiara Rao,Small Business,Jaipur,Rajasthan,2026-01-18
+C030,Mira Mehta,Business,Indore,Madhya Pradesh,2025-12-06
+C031,Kabir Khan,Business,Ahmedabad,Gujarat,2025-07-22
+C032,Yash Patel,Business,Chennai,Tamil Nadu,2025-02-27
+C033,Ayaan Singh,Individual,Jaipur,Rajasthan,2025-01-25
+C034,Ira Khan,Business,Ahmedabad,Gujarat,2025-02-17
+C035,Aditi Mehta,Small Business,Indore,Madhya Pradesh,2025-04-01
+C036,Ayaan Reddy,Individual,Bengaluru,Karnataka,2025-02-11
+C037,Dev Gupta,Small Business,Delhi,Delhi,2025-03-02
+C038,Kiara Iyer,Individual,Lucknow,Uttar Pradesh,2025-07-21
+C039,Sara Khan,Business,Lucknow,Uttar Pradesh,2025-08-29
+C040,Arnav Gupta,Business,Ahmedabad,Gujarat,2025-07-09
+C041,Dev Sharma,Small Business,Hyderabad,Telangana,2025-02-09
+C042,Myra Khan,Individual,Delhi,Delhi,2026-03-23
+C043,Vihaan Mehta,Business,Jaipur,Rajasthan,2025-09-29
+C044,Myra Singh,Individual,Ahmedabad,Gujarat,2025-08-11
+C045,Dev Reddy,Individual,Indore,Madhya Pradesh,2026-02-13
+C046,Advik Mehta,Small Business,Lucknow,Uttar Pradesh,2025-08-25
+C047,Myra Nair,Small Business,Hyderabad,Telangana,2025-01-09
+C048,Riya Gupta,Individual,Kolkata,West Bengal,2025-01-28
+C049,Vihaan Khan,Small Business,Surat,Gujarat,2025-02-04
+C050,Vihaan Verma,Individual,Jaipur,Rajasthan,2025-02-22
+C051,Vihaan Sharma,Individual,Jaipur,Rajasthan,2025-02-02
+C052,Neil Sharma,Individual,Bengaluru,Karnataka,2025-10-24
+C053,Yash Patel,Business,Kolkata,West Bengal,2025-05-12
+C054,Myra Shah,Individual,Bengaluru,Karnataka,2025-09-10
+C055,Arnav Mehta,Small Business,Lucknow,Uttar Pradesh,2025-10-23
+C056,Ira Shah,Individual,Kolkata,West Bengal,2026-01-15
+C057,Dev Shah,Individual,Chennai,Tamil Nadu,2025-01-18
+C058,Yash Mehta,Individual,Bengaluru,Karnataka,2026-03-10
+C059,Anaya Sharma,Small Business,Chennai,Tamil Nadu,2025-09-02
+C060,Ira Iyer,Small Business,Hyderabad,Telangana,2025-06-30
+C061,Riya Patel,Individual,Bengaluru,Karnataka,2025-08-07
+C062,Mira Khan,Small Business,Lucknow,Uttar Pradesh,2026-03-21
+C063,Nisha Kulkarni,Small Business,Hyderabad,Telangana,2025-03-24
+C064,Ayaan Khan,Individual,Indore,Madhya Pradesh,2025-04-05
+C065,Arnav Singh,Individual,Jaipur,Rajasthan,2025-02-12
+C066,Arnav Rao,Individual,Hyderabad,Telangana,2025-06-17
+C067,Advik Joshi,Individual,Pune,Maharashtra,2025-03-12
+C068,Sara Shah,Small Business,Hyderabad,Telangana,2025-12-05
+C069,Vihaan Mehta,Individual,Delhi,Delhi,2025-02-17
+C070,Ayaan Rao,Small Business,Ahmedabad,Gujarat,2026-03-12
+C071,Riya Sharma,Business,Jaipur,Rajasthan,2026-02-13
+C072,Advik Iyer,Small Business,Jaipur,Rajasthan,2025-12-16
+C073,Nisha Joshi,Individual,Chennai,Tamil Nadu,2025-07-25
+C074,Mira Sharma,Individual,Surat,Gujarat,2025-04-18
+C075,Ishaan Joshi,Small Business,Bengaluru,Karnataka,2025-10-09
+C076,Anaya Nair,Small Business,Ahmedabad,Gujarat,2025-11-13
+C077,Neil Desai,Individual,Pune,Maharashtra,2026-02-14
+C078,Mira Sharma,Individual,Surat,Gujarat,2025-02-06
+C079,Aditi Rao,Small Business,Ahmedabad,Gujarat,2025-03-30
+C080,Advik Patel,Individual,Kolkata,West Bengal,2025-01-09
+C081,Arnav Desai,Individual,Lucknow,Uttar Pradesh,2025-12-26
+C082,Yash Rao,Individual,Delhi,Delhi,2025-08-31
+C083,Nisha Desai,Individual,Pune,Maharashtra,2025-07-08
+C084,Myra Joshi,Individual,Indore,Madhya Pradesh,2025-05-27
+C085,Anaya Iyer,Individual,Jaipur,Rajasthan,2025-07-06
+C086,Myra Nair,Small Business,Jaipur,Rajasthan,2026-01-14
+C087,Vihaan Iyer,Individual,Surat,Gujarat,2025-08-16
+C088,Yash Gupta,Business,Delhi,Delhi,2025-06-11
+C089,Ishaan Nair,Small Business,Mumbai,Maharashtra,2025-08-19
+C090,Aditi Joshi,Individual,Indore,Madhya Pradesh,2025-06-12
+C091,Advik Shah,Business,Lucknow,Uttar Pradesh,2025-05-11
+C092,Mira Joshi,Individual,Delhi,Delhi,2025-10-01
+C093,Reyansh Patel,Individual,Mumbai,Maharashtra,2025-01-01
+C094,Reyansh Sharma,Small Business,Lucknow,Uttar Pradesh,2025-08-05
+C095,Ayaan Nair,Individual,Ahmedabad,Gujarat,2025-07-25
+C096,Yash Khan,Individual,Surat,Gujarat,2025-02-01
+C097,Kabir Reddy,Individual,Delhi,Delhi,2025-10-07
+C098,Ishaan Desai,Small Business,Lucknow,Uttar Pradesh,2025-02-18
+C099,Anaya Desai,Individual,Surat,Gujarat,2025-08-17
+C100,Vihaan Sharma,Individual,Indore,Madhya Pradesh,2025-03-18
